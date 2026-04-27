@@ -116,5 +116,6 @@
 </div>
 
 <script src="<%=request.getContextPath()%>/js/slots.js"></script>
+<script src="<%=request.getContextPath()%>/js/theme.js"></script>
 </body>
 </html>

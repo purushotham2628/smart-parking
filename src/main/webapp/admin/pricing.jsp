@@ -78,5 +78,6 @@
         </table>
     </div>
 </div>
+<script src="<%=request.getContextPath()%>/js/theme.js"></script>
 </body>
 </html>

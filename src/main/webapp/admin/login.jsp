@@ -28,5 +28,6 @@
         <p class="muted center" style="margin-top:14px;">Demo: admin@parking.com / admin123</p>
     </div>
 </div>
+<script src="<%=request.getContextPath()%>/js/theme.js"></script>
 </body>
 </html>

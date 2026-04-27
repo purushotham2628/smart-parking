@@ -11,4 +11,5 @@
         <p style="margin-top:14px;"><a href="<%=request.getContextPath()%>/index.jsp" class="btn">Back to Home</a></p>
     </div>
 </div>
+<script src="<%=request.getContextPath()%>/js/theme.js"></script>
 </body></html>
