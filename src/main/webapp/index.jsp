@@ -31,5 +31,6 @@
         <div class="stat"><h3>Secure Payment</h3><div class="num">100%</div></div>
     </div>
 </div>
+<script src="<%=request.getContextPath()%>/js/theme.js"></script>
 </body>
 </html>
